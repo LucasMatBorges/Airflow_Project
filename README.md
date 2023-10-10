@@ -16,7 +16,7 @@ Airflow allows for custom user-created extensions via plugins. The `plugins/` fo
 ### `docker-compose.yaml`
 This YAML file holds various configuration settings related to the Airflow setup. YAML, which stands for "YAML Ain't Markup Language", is a human-readable data serialization format that’s a superset of JSON. In the context of our project, it helps in ensuring consistency and reproducibility.
 
-### The `.env`
+### `.env`
 
 The `.env` file is a pivotal component in software development, particularly for managing environment-specific variables. It's commonly used to store configuration settings and environment data like database URLs, API keys, and other confidential credentials. By segregating these values from the codebase, we can ensure enhanced security, increased portability, and greater flexibility in our development environment.
 
