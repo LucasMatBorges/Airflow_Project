@@ -18,7 +18,7 @@ This YAML file holds various configuration settings related to the Airflow setup
 
 ### `.env`
 
-The `.env` file is a pivotal component in software development, particularly for managing environment-specific variables. It's commonly used to store configuration settings and environment data like database URLs, API keys, and other confidential credentials. By segregating these values from the codebase, we can ensure enhanced security, increased portability, and greater flexibility in our development environment.
+The .env file is a pivotal component in software development, particularly for managing environment-specific variables. It's commonly used to store configuration settings and environment data like database URLs, API keys, and other confidential credentials. By segregating these values from the codebase, we can ensure enhanced security, increased portability, and greater flexibility in our development environment.
 
 ## Docker
 
