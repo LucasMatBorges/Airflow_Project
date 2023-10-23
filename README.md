@@ -1,4 +1,4 @@
-# Airflow Project
+# Airflow Project - 2
 This repository contains the setup and configuration for our Airflow environment, a platform to programmatically author, schedule, and monitor workflows. Below is a breakdown of the structure and purpose of each component.
 
 ## Folders and Files Overview
